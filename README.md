@@ -17,3 +17,6 @@ Website ini memiliki beberapa bagian utama, yaitu:
 - Google Fonts (Poppins)
 - Animasi CSS (Keyframes)
 
+## 🚀 Tampilan Web bisa di klik pada link ini
+http://127.0.0.1:3000/index.html
+
